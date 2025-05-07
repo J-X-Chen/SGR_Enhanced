@@ -1,1 +1,1 @@
-# SGR_Enhanced | The code will coming soon
+# SGR_Enhanced | Graduation thesis from J-BJI
