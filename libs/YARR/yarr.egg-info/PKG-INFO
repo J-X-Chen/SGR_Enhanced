@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: yarr
+Version: 0.1
+Author: Stephen James
+Author-email: slj12@ic.ac.uk
+License-File: LICENSE
+Requires-Dist: tensorboard
+Requires-Dist: moviepy
+Requires-Dist: natsort
+Requires-Dist: psutil
+Requires-Dist: timeout-decorator
+Requires-Dist: pyrender==0.1.45
+Requires-Dist: omegaconf==2.0.5
+Requires-Dist: hydra-core==1.0.5
+Requires-Dist: pandas==1.4.1
+Requires-Dist: opencv-python
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
